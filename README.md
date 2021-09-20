@@ -1,2 +1,2 @@
-# scp-studios
+# SCP Studios
 We make stuff.
